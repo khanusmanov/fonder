@@ -1,0 +1,48 @@
+padding: 100px;
+}
+div { border-radius: 10px; }
+</style>
+</head>
+<body>
+
+<div class="udos">
+
+<div><table style="width:100%">
+<tr>
+<th><b>РЕСПУБЛИКА КАЗАХСТАН</b>
+<p><b>УДОСТОВЕРЕНИЕ ЛИЧНОСТИ</b></p></th>
+
+</tr>
+<td><a href="C:/Users/student/Downloads">
+<img src="ww.jfif"/></a></td>
+
+<td><a><small>fam</small></a>
+
+<a>nurlanuly<a/>
+
+<a><small>imya</small></a>
+
+<a>ermakhan</a>
+
+<a><small>name</small></a>
+
+<a></a>
+
+<a><small>dr</small></a>
+
+<a>07.11.2000</a></td>
+<td></td>
+</tr>
+<tr>
+<td><small>жсн/иин </small>001107500532</td>
+<td></td>
+
+</tr>
+
+
+
+
+</table>
+</div>
+</body>
+</html>
